@@ -8,5 +8,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="textBlue">#FF264653</color>
-    <color name="bg">#FFf4a261</color>
+    <color name="eltonBlue">#FF91c499</color>
+    <color name="bg">#FFf2e9dc</color>
 </resources>
